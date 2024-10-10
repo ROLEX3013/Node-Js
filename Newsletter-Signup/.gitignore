@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Temporary files
+npm-debug.log
+yarn-error.log
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Vercel specific files
+.vercel/
